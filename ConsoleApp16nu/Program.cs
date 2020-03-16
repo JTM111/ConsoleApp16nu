@@ -10,6 +10,8 @@ namespace ConsoleApp16nu
     {
         static void Main(string[] args)
         {
+
+            // dette er direkte fra VS
         }
     }
 }
