@@ -12,6 +12,8 @@ namespace ConsoleApp16nu
         {
 
             // dette er direkte fra VS
+            
+            Console.ReadLine();
         }
     }
 }
